@@ -6,7 +6,6 @@ LuckyDice is a fun and simple web-based dice game where two players roll virtual
 
 - **Animated Dice Rolls**: Enjoy a smooth dice roll animation each time the game is played.
 - **Random Winner**: Two players compete with randomly generated dice rolls, making each game exciting and unpredictable.
-- **Interactive Design**: A clean and simple interface with playful fonts and colors.
 - **Refresh to Replay**: Click the "Play Again" button to start a new round and experience the excitement again!
 
 ## How to Play
